@@ -9,12 +9,8 @@ redirect_from:
 ---
 
 
-I am Professor in the [School of Interactive Computing](https://www.ic.gatech.edu/) at the [Georgia Institute of Technology](https://www.gatech.edu/) and a Research Scientist at [Google AI](https://ai.google/). 
+I am a research scientist at [Hume AI](https://hume.ai/) and postdoctoral researcher at UC Berkeley working with Dacher Keltner.
 
-I joined Georgia Tech in 2001 after obtaining a Ph.D. from [Carnegie Mellon’s School of Computer Science](https://www.scs.cmu.edu/), where I worked with [Hans Moravec](https://frc.ri.cmu.edu/~hpm/), [Chuck Thorpe](https://www.clarkson.edu/people/chuck-thorpe), [Sebastian Thrun](http://robots.stanford.edu/), and [Steve Seitz](https://homes.cs.washington.edu/~seitz/). Before that, I also obtained degrees from Case Western Reserve University and The Catholic University of Leuven, in Belgium.
+I started my current position in 2021 after receiving my PhD from [New York University's Department of Psychology](https://as.nyu.edu/content/nyu-as/as/departments/psychology.html), where I worked with Jon Freeman in the [Social Cognitive and Neural Sciences Lab](https://freemanlab.org/). Before that, I received my BA in Philosophy from Tufts University, where I discovered my love for psychology and neuroscience research as an RA in the late Nalini Ambady's lab. Before starting grad school, I also spent a few years getting fMRI training as a research assistant at Duke and lab manager for [Kristen Lindquist](https://carolinaaffectivescience.com/) at UNC Chapel Hill.
 
-While on leave from Georgia Tech in 2016-2018, I served as Technical Project Lead at Facebook's "Building 8" hardware division within [Facebook Reality Labs](https://tech.fb.com/ar-vr/). Before that I was also Chief Scientist at [Skydio](skydio.com), a startup founded by MIT grads to create intuitive interfaces for micro-aerial vehicles. 
-
-My research is in the overlap between robotics and computer vision, and I am particularly interested in graphical model techniques to solve large-scale problems in mapping, 3D reconstruction, and increasingly model-predictive control. The GTSAM toolbox embodies many of the ideas his research group has worked on in the past few years and is available at [gtsam.org](https://gtsam.org) and [the GTSAM Github repo](https://github.com/borglab/gtsam/pulse/monthly).
-
-Note: this site is still a bit sparse as I am moving from [my former iWeb-generated website](http://www.dellaert.com/) to Github Pages.
+My guiding research interest is to develop better computational and cognitive models of social perception, and to uncover how our incredible ability to quickly glean high-level social, cognitive, and affective information from perceiving others is achieved in the brain. The main focus of my research thus far has been to integrate approaches from experimental psycholgy, cognitive neuroscience, and computational neuroscience to investigate social and cognitive influences on emotion perception. At Hume, I use large-scale statistical modeling and machine learning techniques to analyze the structure of the (very) large datasets used to train the company's emotion AI models. 
