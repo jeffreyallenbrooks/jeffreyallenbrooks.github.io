@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Frank Dellaert"
+title                    : "Jeff Brooks"
 title_separator          : "-"
-name                     : &name "Frank Dellaert"
-description              : &description "Professor, School of Interactive Computing @ Georgia Tech"
-url                      : https://dellaert.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jeff Brooks"
+description              : &description "Research Scientist, Hume AI"
+url                      : https://jeffreyallenbrooks.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dellaert/dellaert.github.io"
+repository               : "jeffreyallenbrooks/jeffreyallenbrooks.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -89,14 +89,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Frank Dellaert"
-  avatar           : "Frank-sideways.jpg"
-  bio              : "Professor, Robotics & Computer Vision"
-  location         : "Atlanta, GA"
-  employer         : "Georgia Tech"
+  name             : "Jeff Brooks"
+  avatar           : "jeff-avatar.jpg"
+  bio              : "Research Scientist, Computational Affective Science & Social Neuroscience"
+  location         : "Brooklyn, NY"
+  employer         : "Hume AI"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ZxXBaswAAAAJ"
-  email            : "dellaert@cc.gatech.edu"
+  email            : "jeff@hume.ai"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -105,24 +105,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dellaert"
+  github           : "jeffreyallenbrooks"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "https://www.linkedin.com/in/frankdellaert/"
-  orcid            : "http://orcid.org/0000-0002-5532-3566"
+  lastfm           : 
+  linkedin         : "https://www.linkedin.com/in/jeff-brooks-27b5a816b/"
+  orcid            : "http://orcid.org/0000-0002-6370-3622"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "fdellaert"
+  twitter          : "jeffabrooks"
   vine             :
   weibo            :
   xing             :
-  youtube          : "dellaert"
+  youtube          :
   wikipedia        :
 
 
