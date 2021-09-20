@@ -17,12 +17,12 @@ Education
 
 Employment
 ======
-* 2021 - present: Research Scientist, Hume AI
+* **Research Scientist, Hume AI** (2021 - present)
 
-* 2021 - present: Postdoctoral Researcher, UC Berkeley (Advisor: Dr. Dacher Keltner)
+* **Postdoctoral Researcher, UC Berkeley** (2021 - present)
+  * Advisor: Dr. Dacher Keltner
 
 * 2013 - 2015: Lab Manager, UNC Chapel Hill (Advisor: Dr. Kristen Lindquist)
-
 * 2012 - 2013: Research Assistant, Duke University (Advisor: Roberto Cabeza)
   
 Awards & Honors
@@ -150,13 +150,13 @@ Professional service
 
 Ad-hoc reviewer (journals)
 ======
-Brain Topology
-Communications Biology
-Nature Communications
-NeuroImage
-Personality and Social Psychology Bulletin
-Psychiatry Research: Neuroimaging
-Psychological Reports
-Social Cognitive and Affective Neuroscience
-Social Neuroscience
+* Brain Topology
+* Communications Biology
+* Nature Communications
+* NeuroImage
+* Personality and Social Psychology Bulletin
+* Psychiatry Research: Neuroimaging
+* Psychological Reports
+* Social Cognitive and Affective Neuroscience
+* Social Neuroscience
 
