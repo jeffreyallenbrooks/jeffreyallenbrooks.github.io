@@ -18,10 +18,8 @@ Education
 Employment
 ======
 * **Research Scientist, Hume AI** (2021 - present)
-
 * **Postdoctoral Researcher, UC Berkeley** (2021 - present)
   * Advisor: Dr. Dacher Keltner
-
 * 2013 - 2015: Lab Manager, UNC Chapel Hill (Advisor: Dr. Kristen Lindquist)
 * 2012 - 2013: Research Assistant, Duke University (Advisor: Roberto Cabeza)
   
@@ -34,7 +32,8 @@ Awards & Honors
 * East Asia and Pacific Summer Institutes Fellowship, National Science Foundation, 2017 
 * Dean’s Travel Grant, NYU Graduate School of Arts and Sciences, 2016
 * Dean’s Supplementary Fellowship Grant, New York University, 2015 
-* Henry M. MacCracken Fellowship, New York University, 2015 – present Undergraduate Research Grant, Tufts University, 2011
+* Henry M. MacCracken Fellowship, New York University, 2015 – 2021 
+* Undergraduate Research Grant, Tufts University, 2011
 * Dean’s List, Tufts University, 2009 – 2012 
 * Tisch Scholar, Tufts University, 2009 – 2011
 
@@ -157,6 +156,10 @@ Ad-hoc reviewer (journals)
 * Personality and Social Psychology Bulletin
 * Psychiatry Research: Neuroimaging
 * Psychological Reports
+* Scientific Reports
 * Social Cognitive and Affective Neuroscience
 * Social Neuroscience
 
+Ad-hoc reviewer (grants)
+======
+* National Science Foundation
