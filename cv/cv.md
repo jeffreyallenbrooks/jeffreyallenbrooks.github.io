@@ -151,6 +151,7 @@ Ad-hoc reviewer (journals)
 ======
 * Brain Topology
 * Communications Biology
+* Journal of Experimental Social Psychology
 * Nature Communications
 * NeuroImage
 * Personality and Social Psychology Bulletin
