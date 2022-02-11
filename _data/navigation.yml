@@ -21,5 +21,8 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Research"
+    url: /research/
+
   # - title: "Guide"
   #   url: /markdown/
