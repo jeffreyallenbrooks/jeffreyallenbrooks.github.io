@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /research/
 title: "Research"
 excerpt: "Social perception // Emotion // Computational approaches to brain and behavior"
@@ -7,12 +8,14 @@ redirect_from:
   - /research
 ---
 
+{% include base_path %}
+
 Social perception
 ======
 
-We’re able to get vivid impressions from total strangers that in many cases are startlingly accurate but which also show systematic biases. 
+We’re able to look at another person and get a vivid impression of their emotions and personality characteristics. These rapid inferences seem to show up automatically for us and can be both startingly accurate and systematically biased. But how do we actually do this?
 
-But how do we actually do this? Many nuanced patterns of social perception and categorization have been documented by psychologists but it was only fairly recently that a critical mass of researchers started thinking about this as a fundamentally perceptual process - this "social vision" approach fascinated me when I first learned about it and has been a guiding conceptual frame for my research ever since. 
+Many nuanced patterns of social perception and categorization have been documented by psychologists but it was only fairly recently that a critical mass of researchers started thinking about this as a fundamentally perceptual process - this "social vision" approach fascinated me when I first learned about it and has guided my research ever since. 
 
 and what this showed is that the perceptual system is also highly attuned to extract socially relevant information from the environment. 
 

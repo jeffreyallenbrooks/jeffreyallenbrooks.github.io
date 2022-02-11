@@ -9,20 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+
+Current
+======
+* **Research Scientist, Hume AI** (2021 - present)
+* **Postdoctoral Researcher, UC Berkeley** (2021 - present)
+  * **Advisor: Dr. Dacher Keltner**
+
 Education
 ======
 * PhD in Psychology (*Minor in Quantitative Methods*), New York University, 2021
   * Advisor: Dr. Jon Freeman
 * MA in Psychology, New York University, 2018
 * BA in Philosophy (*Minor in Cognitive & Brain Sciences*), Tufts University, 2012
-
-Employment
-======
-* **Research Scientist, Hume AI** (2021 - present)
-* **Postdoctoral Researcher, UC Berkeley** (2021 - present)
-  * Advisor: Dr. Dacher Keltner
-* 2013 - 2015: Lab Manager, UNC Chapel Hill (Advisor: Dr. Kristen Lindquist)
-* 2012 - 2013: Research Assistant, Duke University (Advisor: Roberto Cabeza)
   
 Awards & Honors
 ======
@@ -37,6 +36,11 @@ Awards & Honors
 * Undergraduate Research Grant, Tufts University, 2011
 * Dean’s List, Tufts University, 2009 – 2012 
 * Tisch Scholar, Tufts University, 2009 – 2011
+
+Past Employment
+======
+* 2013 - 2015: Lab Manager, UNC Chapel Hill (Advisor: Dr. Kristen Lindquist)
+* 2012 - 2013: Research Assistant, Duke University (Advisor: Roberto Cabeza)
 
 Additional training
 ======
@@ -71,7 +75,13 @@ Publications
 * **Brooks, J.A.**, & Freeman, J.B. (2018). Psychology and neuroscience of person perception. Invited chapter in J. Wixted (Ed.), The Stevens Handbook of Experimental Psychology and Cognitive Neuroscience, 4th edition (pp. 429-464). Wiley.
 
 * **Brooks, J.A.**, Shablack, H., Gendron, M., Satpute, A.B., Parrish, M.J., & Lindquist, K.A. (2017). The role of language in the experience and perception of emotion: a neuroimaging meta-analysis. Social Cognitive and Affective Neuroscience, 12(2), 169-183.
-  
+
+
+Chaired Conference Symposia
+=====
+**Brooks, J.A.**, & Freeman, J.B. (2020, February). New approaches to fundamental questions in facial emotion perception. Society for Personality and Social Psychology Annual Conference, New Orleans, LA. Speakers: Jared Martin, Rachael Jack, Reginald B. Adams, **Jeffrey Brooks**.
+
+
 Talks
 ======
 * Freeman, J.B., Stolier, R.M., **Brooks, J.A.**, & Barnett, B.O. (2021). A domain-general neural mechanism of flexible social perception. Invited talk presented at the Social and Affective Neuroscience Society Annual Conference.
@@ -96,7 +106,7 @@ Talks
 
 * **Brooks, J.A.** (2009, April). Rethinking the multiple category problem: Parallel social categorization in face processing. Talk presented at Tufts University’s Eleventh Annual Undergraduate Research & Scholarship Symposium, Somerville, MA.
 
-Poster presentations
+Posters
 ======
 * **Brooks, J.A.**, Stolier, R.M., & Freeman, J.B. (2020). Context shapes the neural representation of facial emotion categories. Poster accepted to be presented at the Social and Affective Neuroscience Society Annual Conference, Santa Barbara, CA. [Cancelled due to the COVID-19 pandemic]
 
