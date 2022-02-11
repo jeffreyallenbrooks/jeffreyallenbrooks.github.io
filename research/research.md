@@ -1,11 +1,10 @@
 ---
 permalink: /research/
 title: "Research"
-excerpt: "This is a page not in th emain menu"
+excerpt: "Social perception // Emotion // Computational approaches to brain and behavior"
 author_profile: true
 redirect_from: 
-  - /research/
-  - /research.html
+  - /research
 ---
 
 Social perception
