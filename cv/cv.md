@@ -10,18 +10,18 @@ redirect_from:
 {% include base_path %}
 
 
-#### Current
+### Current
 * **Research Scientist, Hume AI** (2021 - present)
 * **Postdoctoral Researcher, UC Berkeley** (2021 - present)
   * **Advisor: Dr. Dacher Keltner**
 
-#### Education
+### Education
 * PhD in Psychology (*Minor in Quantitative Methods*), New York University, 2021
   * Advisor: Dr. Jon Freeman
 * MA in Psychology, New York University, 2018
 * BA in Philosophy (*Minor in Cognitive & Brain Sciences*), Tufts University, 2012
   
-#### Awards & Honors
+### Awards & Honors
 * Dean’s Travel Grant, NYU Graduate School of Arts and Sciences, 2020
 * Graduate Student Travel Award, Society for Personality and Social Psychology, 2019
 * Graduate Student Travel Award, Society for Personality and Social Psychology, 2018
@@ -34,18 +34,18 @@ redirect_from:
 * Dean’s List, Tufts University, 2009 – 2012 
 * Tisch Scholar, Tufts University, 2009 – 2011
 
-#### Past Employment
+### Past Employment
 * 2013 - 2015: Lab Manager, UNC Chapel Hill (Advisor: Dr. Kristen Lindquist)
 * 2012 - 2013: Research Assistant, Duke University (Advisor: Roberto Cabeza)
 
-#### Additional training
+### Additional training
 * “NeuroHackademy” Summer School in Neuroimaging and Data Science, University of Washington at Seattle, August 2018
 
 * Summer School in Social Neuroscience and Neuroeconomics, Duke University, June 2018
 
 * Multimodal Brain Imaging Workshop, Gateway MRI Center, University of North Carolina at Greensboro, June 2014
 
-#### Publications
+### Publications
 * Cowen, A. S., Prasad, G., Tanaka, M., Kamitani, Y., Kirilyuk, V., Somandepalli, K., Jou, B., Schroff, F., Hartwig, A., **Brooks, J.A.**, & Keltner, D. (preprint). How emotion is experienced and expressed in multiple cultures: a large-scale experiment.
 
 * Cowen, A.S., Manokara, K., Fang, X., Sauter, D., **Brooks, J.A.**, & Keltner, D. (preprint). Facial movements have over twenty dimensions of perceived meaning that are only partially captured with traditional methods.
@@ -71,11 +71,11 @@ redirect_from:
 * **Brooks, J.A.**, Shablack, H., Gendron, M., Satpute, A.B., Parrish, M.J., & Lindquist, K.A. (2017). The role of language in the experience and perception of emotion: a neuroimaging meta-analysis. Social Cognitive and Affective Neuroscience, 12(2), 169-183.
 
 
-#### Chaired Conference Symposia
+### Chaired Conference Symposia
 * **Brooks, J.A.**, & Freeman, J.B. (2020, February). New approaches to fundamental questions in facial emotion perception. Society for Personality and Social Psychology Annual Conference, New Orleans, LA. Speakers: Jared Martin, Rachael Jack, Reginald B. Adams, **Jeffrey Brooks**.
 
 
-#### Talks
+### Talks
 * Freeman, J.B., Stolier, R.M., **Brooks, J.A.**, & Barnett, B.O. (2021). A domain-general neural mechanism of flexible social perception. Invited talk presented at the Social and Affective Neuroscience Society Annual Conference.
 
 * **Brooks, J.A.**, Stolier, R.M., & Freeman, J.B. (2020, February). Conceptual knowledge shapes the neural representation of facial emotion categories. Talk presented at the Society for Personality and Social Psychology Annual Conference, New Orleans, LA.
@@ -98,8 +98,7 @@ redirect_from:
 
 * **Brooks, J.A.** (2009, April). Rethinking the multiple category problem: Parallel social categorization in face processing. Talk presented at Tufts University’s Eleventh Annual Undergraduate Research & Scholarship Symposium, Somerville, MA.
 
-Posters
-======
+### Posters
 * **Brooks, J.A.**, Stolier, R.M., & Freeman, J.B. (2020). Context shapes the neural representation of facial emotion categories. Poster accepted to be presented at the Social and Affective Neuroscience Society Annual Conference, Santa Barbara, CA. [Cancelled due to the COVID-19 pandemic]
 
 * **Brooks, J.A.**, Chikazoe, J., Sadato, N., & Freeman, J.B. (2019, May). Conceptual knowledge shapes the neural representation of facial emotion perception. Poster presented at the Social and Affective Neuroscience Society Annual Conference, Miami, FL.
@@ -130,35 +129,35 @@ Posters
 
 * **Brooks, J.A.** (2010, April). When two become one: Temporally dynamic integration of the face and voice. Poster presented at Tufts University’s Twelfth Annual Undergraduate Research & Scholarship Symposium.
 
-#### Teaching experience
+### Teaching experience
 * Fall 2020
   * Guest lecturer
   * Course: Graduate research methods
   * New York University
   
-#### Departmental service
+### Departmental service
 * Co-organizer and member, fMRI Methods Journal Club (NYU), 2016 – 2021
 * Member, Diversity & Inclusion Steering Committee (NYU), 2020
 * Member, Climate Committee (NYU), 2019 – 2020
 * Student Representative, Graduate Admissions Committee (NYU), 2019 – 2020
 * Student Representative, Social Psychology PhD Program (NYU), 2018 – 2019
 
-#### Professional service
+### Professional service
 * Member, IEEE Standard for Ethical considerations in Emulated Empathy in Autonomous and Intelligent Systems, 2021 - present
 * Student Representative, Society for Affective Science Student Committee (New York chapter), 2017 – 2020
 
-#### Ad-hoc reviewer (journals)
-* Brain Topology
-* Communications Biology
-* Journal of Experimental Social Psychology
-* Nature Communications
-* NeuroImage
-* Personality and Social Psychology Bulletin
-* Psychiatry Research: Neuroimaging
-* Psychological Reports
-* Scientific Reports
-* Social Cognitive and Affective Neuroscience
-* Social Neuroscience
+### Ad-hoc reviewer (journals)
+* *Brain Topology*
+* *Communications Biology*
+* *Journal of Experimental Social Psychology*
+* *Nature Communications*
+* *NeuroImage*
+* *Personality and Social Psychology Bulletin*
+* *Psychiatry Research: Neuroimaging*
+* *Psychological Reports*
+* *Scientific Reports*
+* *Social Cognitive and Affective Neuroscience*
+* *Social Neuroscience*
 
-#### Ad-hoc reviewer (grants)
+### Ad-hoc reviewer (grants)
 * National Science Foundation
