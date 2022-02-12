@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Current
-======
+###### Current
 * **Research Scientist, Hume AI** (2021 - present)
 * **Postdoctoral Researcher, UC Berkeley** (2021 - present)
   * **Advisor: Dr. Dacher Keltner**
