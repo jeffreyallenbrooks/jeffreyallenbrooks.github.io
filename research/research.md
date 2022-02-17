@@ -44,5 +44,5 @@ These areas are currently under construction. Please check back later!
 ### etc.
 Please feel free to reach out to me by email if you want to discuss any of these areas of research, or to just let me know you reached the bottom of this page.
 
-Aside from s c i e n c e, I like yoga, cooking, guitar, <a href="https://psnprofiles.com/ourannual">video games</a>, and try to read as much as possible (if you're particularly bored feel free to <a href="https://app.thestorygraph.com/profile/jeffreyallenbrooks">check out the books I've been reading</a>) 
+Aside from s c i e n c e, I like yoga, cooking, guitar, video games, and try to read as much as possible (if you're particularly bored feel free to <a href="https://app.thestorygraph.com/profile/jeffreyallenbrooks">check out the books I've been reading</a>) 
 
