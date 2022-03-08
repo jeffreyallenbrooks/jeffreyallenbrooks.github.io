@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: archive
 permalink: /research/
 title: "Research"
 excerpt: "Social perception // Emotion // Computational approaches to brain and behavior"
