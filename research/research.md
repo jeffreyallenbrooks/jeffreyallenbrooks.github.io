@@ -13,7 +13,7 @@ redirect_from:
 
 ### My research uses new computational tools to look into old questions about how we perceive and understand one another.
 
-<font size="6">
+<font size="2">
 We’re able to look at another person - even a total stranger - and get a vivid impression of their emotions and mental state. But how do we actually do this? 
 
 Whether or not our perceptions of others are accurate, it's clear that the perceptual system extracts and efficiently, flexibly represents incredibly complex information about what others are thinking and feeling. 
