@@ -17,8 +17,6 @@ redirect_from:
 We’re able to look at another person - even a total stranger - and get a vivid impression of their emotions and mental state. But how do we actually do this? 
 <br><br>
 Whether or not our perceptions of others are accurate, it's clear that the perceptual system extracts and efficiently, flexibly represents incredibly complex information about what others are thinking and feeling. How is the brain accomplishing this high-level information processing from a computational perspective? How much of the richness of social cognition comes from raw perception vs. abstract, culturally-shaped ideas about what humans are like (or should be like)?
-<br><br>
-Thinking about social perception in these terms has broadly guided my research.
 </font>
 
 ### Social perception
