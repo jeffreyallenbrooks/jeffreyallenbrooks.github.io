@@ -47,16 +47,15 @@ My research approach is motivated by computational approaches to cognition and a
 Models and taxonomies in psychology tend to be very reductive - six basic emotions, two dimensions of social perception, dual-process models of learning, memory, morality. We have endured a massive gap between the obvious richness and complexity of human life and the ways we can describe and measure it scientifically.
 <br><br>
 In my work at <a href="https://hume.ai/about">Hume</a>, I'm currently working on this problem in the domain of emotion - using machine learning in conjunction with massive experimentally controlled datasets to determine new ways to measure, represent, and model human emotion, and how these methods can remain sensitive to complex variability between individuals and cultures.
-<br><br>
 </font>
 
 ### The future of models in psychology
 
 <font size="2">
-More broadly, we're entering a fascinating new phase of science where unprecedented amounts of data and technological advances in our capability to process and derive insights from huge amounts of data are slowly opening a door on a completely new way to do science, and I'm fascinated about what this means for the future of psychological science.
+More broadly, we're entering a fascinating era where unprecedented amounts of data and technological advances in our capability to process and derive insights from huge amounts of data are opening a door on a completely new way to do science, and I'm fascinated about what this means for the future of psychology. 
 <br><br>
-Advances in data science might enable psychological science to capture more of the truth of how we work, but in order to do this, it might have to use mathematical descriptions that abstract very far away from our daily experience of being human. What will this be like? How can we prepare for it? If today's psychology is classical mechanics, what is psychology's string theory? 
-<br><br>
+Advances in data science and machine learning might enable psychological science to capture more of the truth of how we work, but in order to do this, it might have to use mathematical descriptions that abstract very far away from our daily experience of being human. What will this be like? How can we prepare for it? If today's psychology is classical mechanics, what is psychology's string theory? 
+</font>
 
 ### etc.
 
