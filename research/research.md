@@ -10,8 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
+
 ### My research uses new computational tools to look into old questions about how we perceive and understand one another.
 
+<font size="6">
 We’re able to look at another person - even a total stranger - and get a vivid impression of their emotions and mental state. But how do we actually do this? 
 
 Whether or not our perceptions of others are accurate, it's clear that the perceptual system extracts and efficiently, flexibly represents incredibly complex information about what others are thinking and feeling. 
@@ -53,4 +55,4 @@ This might mean that psychological science captures more of the truth of how we 
 Please feel free to reach out to me by email if you want to discuss any of these areas of research, or to just let me know you reached the bottom of this page.
 
 Aside from science I like yoga, cooking, guitar, video games, and exploring new york city, which gets bigger the longer I live here. I try to read as much as possible and you can feel free to check out the books I've been reading <a href="https://app.thestorygraph.com/profile/jeffreyallenbrooks">here</a>.
-
+</font>
