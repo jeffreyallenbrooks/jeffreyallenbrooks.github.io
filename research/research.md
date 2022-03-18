@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 
-#### My research uses new computational tools to look into old questions about how we perceive and understand one another.
+### My research uses new computational tools to look into old questions about how we perceive and understand one another.
 <font size="2">
 We’re able to look at another person - even a total stranger - and get a vivid impression of their emotions and mental state. But how do we actually do this? 
 <br><br>
@@ -20,8 +20,7 @@ Whether or not our perceptions of others are accurate, the perceptual system can
 How is the brain accomplishing this high-level information processing from a computational perspective? How much of the richness of social cognition comes from raw perception vs. abstract, culturally-shaped ideas about what humans are like (or should be like)?
 </font>
 
-#### computational social vision
-<br>
+### computational social vision
 <font size="2">
 My research takes a computational approach to understanding how we communicate and understand one another's emotions (and how we perceive each other more generally).
 <br><br>
@@ -31,8 +30,7 @@ https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780195333
 This transdisciplinary approach opens up opportunities to consider major theoretical questions about the nature of perception, categories, intelligence, and representation. It's also been an exciting time to keep up with the methods and findings of vision science, which is rapidly being reshaped by deep computer vision models.
 </font>
 
-#### emotion perception
-<br>
+### emotion perception
 <font size="2">
 My first major line of research applied this approach to facial expressions - borrowing concepts from vision science, to what extent can we think of this process in terms of "bottom-up" and "top-down" processes (i.e., the relative influence of perceptual cues on the face vs. pre-existing perceptual heuristics and biases in the observer). This weighs in on debates about the role of conceptual knowledge in emotion, and the ability for cognitive processes to influence perception more generally. These papers investigate this question using computational methods applied to behavioral and brain imaging data, respectively:
 <br><br>
@@ -40,7 +38,7 @@ My first major line of research applied this approach to facial expressions - bo
 <a href="https://jeffreyallenbrooks.github.io/publications/files/2019_BrooksChikazoeSadatoFreeman_PNAS.pdf">Brooks, Chikazoe, Sadato, & Freeman (2019), *PNAS*</a>
 </font>
 
-#### computational approaches to brain and behavior
+### computational approaches to brain and behavior
 <font size="2">
 My research is also motivated by a desire to bring in new mathematical and statistical tools so that psychological science can capture and describe more of the nuance and complexity we're familiar with in our daily lives.
 <br><br>
@@ -49,7 +47,7 @@ Models and taxonomies in psychology tend to be very reductive - six basic emotio
 In my work at <a href="https://hume.ai/about">Hume</a>, I'm currently working on this problem in the domain of emotion - using machine learning in conjunction with massive experimentally controlled datasets to determine new ways to measure, represent, and model human emotion, and how these methods can remain sensitive to complex variability between individuals and cultures.
 </font>
 
-#### the future of explanatory models in psychology
+### the future of explanatory models in psychology
 <font size="2">
 Unprecedented amounts of data and advances in our capability to process and derive insights from huge amounts of data are opening a door on a completely new way to do science, and I'm fascinated about what this means for the future of psychology. 
 <br><br>
@@ -57,7 +55,7 @@ Advances in data science and machine learning might enable psychological science
 <br><br>
 </font>
 
-#### etc.
+### etc.
 <font size="2">
 Please feel free to reach out to me by email if you want to discuss any of these areas of research, or to just let me know you reached the bottom of this page.
 <br><br>
