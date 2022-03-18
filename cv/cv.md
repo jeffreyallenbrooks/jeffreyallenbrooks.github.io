@@ -50,7 +50,7 @@ redirect_from:
 
 * Cowen, A.S., Manokara, K., Fang, X., Sauter, D., **Brooks, J.A.**, & Keltner, D. (preprint). Facial movements have over twenty dimensions of perceived meaning that are only partially captured with traditional methods.
 
-* **Brooks, J.A.**, Stolier, R.M., & Freeman, J.B. (in press). Computational approaches to the neuroscience of social perception. Social Cognitive and Affective Neuroscience.
+* **Brooks, J.A.**, Stolier, R.M., & Freeman, J.B. (2021). Computational approaches to the neuroscience of social perception. Social Cognitive and Affective Neuroscience, 16(8), 827-837.
 
 * Barnett, B.O., **Brooks, J.A.**, & Freeman, J.B. (2021). Stereotypes bias face perception via orbitofrontal-fusiform cortical interaction. Social Cognitive and Affective Neuroscience, 16(3), 302-314.
 
