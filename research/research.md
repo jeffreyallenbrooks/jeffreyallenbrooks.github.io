@@ -15,9 +15,7 @@ redirect_from:
 <font size="2">
 We’re able to look at another person - even a total stranger - and get a vivid impression of their emotions and mental state. But how do we actually do this? 
 <br><br>
-Whether or not our perceptions of others are accurate, the perceptual system can clearly extract and efficiently, flexibly represent incredibly complex information about what others are thinking and feeling. 
-<br><br>
-How is the brain accomplishing this high-level information processing from a computational perspective? How much of the richness of social cognition comes from raw perception vs. abstract, culturally-shaped ideas about what humans are like (or should be like)?
+Whether or not our perceptions of others are accurate, the perceptual system can clearly extract and efficiently, flexibly represent incredibly complex information about what others are thinking and feeling. How is the brain accomplishing this high-level information processing from a computational perspective? How much of the richness of social cognition comes from raw perception vs. abstract, culturally-shaped ideas about what humans are like (or should be like)?
 </font>
 
 ### computational social vision
